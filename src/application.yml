@@ -1,6 +1,7 @@
 spring:
   data:
     mongodb:
+      database: hotel-service
       host: localhost
       port: 27017
 
